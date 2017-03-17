@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "651473937025",
+    "firebase_url": "https://fuelr-ffafc.firebaseio.com",
+    "project_id": "fuelr-ffafc",
+    "storage_bucket": "fuelr-ffafc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651473937025:android:08a0b356a7c174f0",
+        "android_client_info": {
+          "package_name": "com.fuelr.fuelr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651473937025-dgqab16mufdb2ndc75f00lo9r6eb4k5t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASLGXqrmt_rscgHkl0If_Fo7V2Hv-7kfw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
